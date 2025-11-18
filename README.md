@@ -1,6 +1,4 @@
 # EXP-2 Welcome message in Message box with IF Condition and Switch case
-## NAME : SAI SANJIV R 
-## REG.NO : 212223230179
 # AIM : 
 to create a Welcome message in Message box with IF Condition and Switch case.
 
